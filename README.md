@@ -1,4 +1,4 @@
 Sandbox
 =======
 
-Java sandbox repository.
+This repository is a catch all for java test classes. 
